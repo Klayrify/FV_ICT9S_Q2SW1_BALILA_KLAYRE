@@ -1,0 +1,18 @@
+	
+	p{font-size: 100; text-transform: capitalize; background: #fae3ef}
+	.dog{background: #fae3ef}
+	.dogpic{background: white}
+	.desc{background: #f5cbe1}
+	
+
+	body {background-image: url("dog bg.png")}
+	hr{border-color: #f7b0d3}
+	table{border-color: #ff69b4; color:#591f3c}
+	div{text-align: center}
+	h1{color:#c42b7b; text-align: center; text-transform: uppercase; letter-spacing: 3px}
+	h2{color: #d44c93; background: #f5cbe1;text-align: center;}
+	h3{color: #d44c93}
+	ul{text-align: left;}
+	li{color: #73274d; font-size: 20}
+	h4{text-align: center;color: #d44c93}
+	.title{background: white}
